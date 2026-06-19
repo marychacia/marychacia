@@ -2,11 +2,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Lead+FDE | Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Lead+FDE+%7C+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
-</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mary-chacia/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,12 +40,14 @@ I'm also finishing an **MSc in Computer Science with AI** at York, where I've bu
 
 ```diff
 + Co-authoring the UK government's canonical AI coding adoption playbook
-+ Deploying AI tooling across 19 departments — governance, not just vibes
++ Deploying tooling across goverment departments
 + MSc CS/AI @ York — ML pipelines, concurrent systems, research methods
 ~ Stack: Python · Java 21 · TypeScript · React · Claude Code · MCP
 ```
 
 ---
+
+<div align="center">
 
 ### `> the stack`
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -62,10 +63,15 @@ I'm also finishing an **MSc in Computer Science with AI** at York, where I've bu
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
  
 `MCP` · `agentic AI` · `RAG` · `genetic algorithms` · `ML pipelines` · `prompt engineering` · `LLMOps`
+
+<br />
+
+</div>
  
 ---
  
 <div align="center">
+
 **MSc Computer Science with AI, University of York** · English & Polish · Open Government contributor
  
 <sub>Open to professional conversations.</sub>
