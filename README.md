@@ -72,9 +72,8 @@ I'm also finishing an **MSc in Computer Science with AI** at York, where I've bu
  
 <div align="center">
 
-**MSc Computer Science with AI, University of York** · English & Polish · Open Government contributor
+**MSc Computer Science with AI, University of York** · Open Government contributor
  
 <sub>Open to professional conversations.</sub>
  
 </div>
----
