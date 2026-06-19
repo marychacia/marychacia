@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=AI+Solution+Architect | Lead+FDE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Lead+FDE | Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ---
 
 ```yaml
-# system spec — what this agent is actually for
+# system spec — what this agent is for
 role:    Lead Forward Deployed Engineer · Software Developer 
 mission: coding for bigger purpose
 posture: secure-by-design · responsible AI · evidence over hype
