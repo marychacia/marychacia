@@ -25,7 +25,7 @@ posture: secure-by-design · responsible AI · evidence over hype
 
 I work where AI leaves the demo and meets reality - procurement, security, and real users at scale.
 
-Right now I'm embedded in **[DSIT's AI Engineering Lab](https://github.com/gds-dtx/aiengineeringlab)** — the UK government programme scaling AI coding assistants (Claude Code, GitHub Copilot) across central government. I co-authored the [public repository](https://github.com/gds-dtx/aiengineeringlab) that's become the central resource for AI adoption across departments. Before that I shipped production Java APIs at Companies House — **500,000+ users in week one**.
+Right now I'm embedded in **[DSIT's AI Engineering Lab]([https://github.com/gds-dtx/aiengineeringlab](https://cddo.blog.gov.uk/2026/01/12/join-ai-engineering-lab-and-help-shape-the-future-of-digital-government/))** — the UK government programme scaling AI coding assistants (Claude Code, GitHub Copilot) across central government. I co-authored the [public repository](https://github.com/gds-dtx/aiengineeringlab) that's become the central resource for AI adoption across departments. Before that I shipped production Java APIs at Companies House — **500,000+ users in week one**.
 
 I'm also finishing an **MSc in Computer Science with AI** at York, where I've built ML pipelines on DEFRA biodiversity data (GA searching 2³⁵ feature subsets, LOOCV R² = 0.991), concurrent Python data engineering, and HR attrition models in scikit-learn.
 
