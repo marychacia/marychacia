@@ -47,8 +47,6 @@ I'm also finishing an **MSc in Computer Science with AI** at York, where I've bu
 
 ---
 
-<div align="center">
-
 ### `> the stack`
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
