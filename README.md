@@ -18,7 +18,7 @@
 # system spec — what this agent is for
 role:    Lead Forward Deployed Engineer · Software Developer 
 mission: coding for bigger purpose
-posture: secure-by-design · responsible AI · evidence over hype
+posture: secure-by-design · responsible AI · evidence over hype 
 ```
 
 ### `> whoami`
@@ -34,15 +34,16 @@ I'm also finishing an **MSc in Computer Science with AI** at York, where I've bu
 - 🏛️ **Government-grade shipping** — production services at scale: GDS, Companies House. I know what it takes to go live in the public sector and stay there.
 - 🤖 **Certified AI practitioner** — Anthropic-certified across Claude Code, MCP, and Agent Skills. I build with these tools, train engineers to use them, and write the playbooks that outlast the project.
 - 🧪 **ML from scratch** — scikit-learn, genetic algorithms, Kafka + Spark architectures, and enough statistics to know when a model's actually working.
-- 🎤 **Enablement that sticks** — ran in-person hackathon, delivered workshops to engineers across goverment departments, contributed at the DSIT Hackathon and Anthropic Workshop.
+- 🎤 **Enablement that sticks** — ran in-person hackathon, delivered workshops and lightning talks to engineers across goverment departments, contributed at the DSIT Hackathon.
 
 ### `> currently`
 
 ```diff
 + Co-authoring the UK government's canonical AI coding adoption playbook
 + Deploying tooling across goverment departments
-+ MSc CS/AI @ York — ML pipelines, concurrent systems, research methods
-~ Stack: Python · Java 21 · TypeScript · React · Claude Code · MCP
++ MSc CS/AI @ York — ML pipelines, concurrent systems, research methods, dissertation in the making
++ Fine-tuning GPT-2 and Llama with Hugging Face - with evaluation metrics
+~ Stack: Python · Java · TypeScript · React · Claude Code · MCP
 ```
 
 ---
