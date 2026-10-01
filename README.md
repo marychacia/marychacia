@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Lead+FDE+%7C+Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Forward+Deployed+Engineer+%7C+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,9 @@ posture: secure-by-design · responsible AI · evidence over hype
 
 I work where AI leaves the demo and meets reality - procurement, security, and real users at scale.
 
-Right now I'm embedded in **[DSIT's AI Engineering Lab](https://cddo.blog.gov.uk/2026/01/12/join-ai-engineering-lab-and-help-shape-the-future-of-digital-government/)** — the UK government programme scaling AI coding assistants (Claude Code, GitHub Copilot) across central government. I co-authored the [public repository](https://github.com/gds-dtx/aiengineeringlab) that's become the central resource for AI adoption across departments. Before that I shipped production Java APIs at Companies House — **500,000+ users in week one**.
+I now design and deliver activation programmes for Claude Cowork and Claude Code, training engineers, building champion environments and supporting teams as they adopt AI tooling.
+
+Previously I was embedded in **[DSIT's AI Engineering Lab](https://cddo.blog.gov.uk/2026/01/12/join-ai-engineering-lab-and-help-shape-the-future-of-digital-government/)** — the UK government programme scaling AI coding assistants (Claude Code, GitHub Copilot, Kiro) across central government. I co-authored the [public repository](https://github.com/gds-dtx/aiengineeringlab) that's become the central resource for AI adoption across departments. Before that I shipped production Java APIs at Companies House — **500,000+ users in week one**.
 
 I'm also finishing an **MSc in Computer Science with AI** at York, where I've built ML pipelines on DEFRA biodiversity data (GA searching 2³⁵ feature subsets, LOOCV R² = 0.991), concurrent Python data engineering, and HR attrition models in scikit-learn.
 
@@ -39,11 +41,11 @@ I'm also finishing an **MSc in Computer Science with AI** at York, where I've bu
 ### `> currently`
 
 ```diff
-+ Co-authoring the UK government's canonical AI coding adoption playbook
-+ Deploying tooling across goverment departments
-+ MSc CS/AI @ York — ML pipelines, concurrent systems, research methods, dissertation in the making
-+ Fine-tuning GPT-2 and Llama with Hugging Face - with evaluation metrics
-~ Stack: Python · Java · TypeScript · React · Claude Code · MCP
++ Shipping Claude Cowork and Claude Code activations in the private sector
++ Building the next set of reusable engagement assets for future activations
++ Completing MSc CS/AI with projects in ML pipelines and concurrent Python
++ Mentoring through Women in Tech and Tent Partnership for Refugees
+~ Stack: Python · Java · TypeScript · React · Claude · MCP
 ```
 
 ---
