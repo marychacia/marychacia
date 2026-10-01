@@ -16,7 +16,7 @@
 
 ```yaml
 # system spec — what this agent is for
-role:    Lead Forward Deployed Engineer · Software Developer 
+role:    Forward Deployed Engineer · Software Developer 
 mission: coding for bigger purpose
 posture: secure-by-design · responsible AI · evidence over hype 
 ```
